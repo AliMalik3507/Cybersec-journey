@@ -32,7 +32,7 @@ So you know what to do when an alert comes in — what to ask, where to look, wh
 
 
 
-\---
+\---------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -69,6 +69,8 @@ So you know what to do when an alert comes in — what to ask, where to look, wh
 Understanding the workflow of communicating an alert — what info is required and how to relay it to other team members.
 
 
+
+\-----------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -107,6 +109,10 @@ Understanding the workflow of communicating an alert — what info is required a
 \- Gives guidance on what steps are required to investigate and remediate specific threats
 
 \- Lets a SOC analyst know where their sources of intel are coming from (lookups) 
+
+
+
+\-----------------------------------------------------------------------------------------------------------------------
 
 
 
