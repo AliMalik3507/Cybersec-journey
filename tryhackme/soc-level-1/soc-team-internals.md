@@ -117,24 +117,50 @@ Understanding the workflow of communicating an alert — what info is required a
 
 
 \## SOC Metrics and Objectives 
+ SOC Metrics and Objectives
 
-\- Discover the concepts of SLA, MTTD, MTTA, and MTTR
+    - Discover the concepts of SLA, MTTD, MTTA, and MTTR
+    - Understand the importance of the False Positive Rate
+    - Learn why and how to improve the metrics as an L1 analyst
 
-\- Understand the importance of the False Positive rate
+    What This Room Covers
 
-\- Learn why and how to improve the metrics as an L1 analyst
+    This room covers key SOC metrics used to measure alert volume, detection speed, analyst response time, escalation quality, and recovery efficiency.
 
-\## What this room covers 
+    Key Takeaways
+
+    Core Metrics
+
+    - Alert Count (AC) = Total count of alerts received
+    - False Positive Rate (FPR) = False Positives / Alert Count
+      - Measures the level of noise in alerts
+    - Alert Escalation Rate (AER) = Escalated Alerts / Alert Count
+      - Shows how often L1 analysts escalate alerts
+    - Threat Detection Rate (TDR) = Detected Threats / Total Threats
+      - Measures the reliability of the SOC’s detection capability
+
+    Triage Metrics
+
+    - SOC Team Availability = 24/7 coverage
+    - MTTD = Mean Time to Detect
+      - Example target: 5 minutes
+    - MTTA = Mean Time to Acknowledge
+      - Example target: 10 minutes
+    - MTTR = Mean Time to Respond / Recover / Resolve
+      - Example target: 60 minutes
+
+    Why It Matters
+
+    SOC metrics provide insight into the reliability, efficiency, consistency, and recoverability of a SOC team.
+
+    They help show:
+
+    - How quickly threats are detected
+    - How quickly alerts are acknowledged
+    - How noisy the alert queue is
+    - How often alerts are escalated
+    - How reliable the SOC is at detecting real threats
+    - How quickly the team responds or recovers
 
 
-
-\## Key Takeaways 
-
-
-
-\## Why it matters 
-
-
-
-&#x09;
 
